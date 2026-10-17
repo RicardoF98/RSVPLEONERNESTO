@@ -1,5 +1,5 @@
 /* =========================================================
-   DATOS DE LA INVITACIÓN — edita aquí (lo marcado PENDIENTE)
+   DATOS DE LA INVITACIÓN — edita aquí
    ========================================================= */
 const INVITACION = {
   nombre: 'León Ernesto',
@@ -30,7 +30,6 @@ const INVITACION = {
     link: 'https://mesaderegalos.liverpool.com.mx/milistaderegalos/60062323',
   },
   musica: 'assets/hakuna-matata.mp3',   // o 'assets/ciclo-sin-fin.mp3'
-  confirmarAntes: '20 de noviembre',                             // PENDIENTE
   whatsapp: '528334283994',
 };
 
