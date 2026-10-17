@@ -6,8 +6,8 @@ const INVITACION = {
   apellidos: 'Escobar de la Cruz',
   evento: 'Mi Bautizo',
   fecha: '2026-11-28T10:00:00-06:00',
-  papas: ['Estefany Johany de la Cruz Martínez', 'Ernesto Salvador Escobar Pérez'],
-  padrinos: ['Evelyn', 'Ricardo', 'Victor', 'Dora'],
+  papas: ['Estefany Johany de la Cruz Martínez', 'Ernesto S. Escobar Pérez'],
+  padrinos: ['Dora', 'Victor', 'Ricardo', 'Evelyn'],
   ceremonia: {
     titulo: 'Ceremonia religiosa',
     hora: '10:00 a.m.',
