@@ -22,7 +22,7 @@ const INVITACION = {
     direccion: 'Calle Cinco de Mayo 611, Col. Primero de Mayo, Ciudad Madero, Tamps.',
     mapa: '',
   },
-  vestimenta: 'Formal — de preferencia en tonos tierra, beige o dorado.',            // PENDIENTE
+  vestimenta: 'De preferencia en tonos tierra, beige o dorado.',
   regalos: {
     mensaje: 'Tu presencia es nuestro mejor regalo. Si deseas tener un detalle, te compartimos nuestra mesa.',
     tienda: 'Liverpool',
