@@ -306,7 +306,7 @@ function initScene() {
   const baby = new THREE.Sprite(babyMat);
   baby.center.set(0.5, 0.07);
   baby.position.set(BABY_POS.x, BABY_POS.y, BABY_POS.z);
-  new THREE.TextureLoader().load('assets/leon.png', (tex) => {
+  new THREE.TextureLoader().load('assets/leon-explorador.png', (tex) => {
     const h = 6;
     baby.scale.set(h * tex.image.width / tex.image.height, h, 1);
     babyMat.map = tex;
