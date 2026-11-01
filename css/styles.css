@@ -287,6 +287,14 @@ h3 {
   color: var(--cream);
   text-shadow: 0 0 24px rgba(255, 190, 100, .55), 0 3px 10px rgba(0, 0, 0, .6);
 }
+.subtitle small {
+  display: block;
+  margin-top: -.1em;
+  font-size: .5em;
+}
+@media (min-width: 768px) {
+  .subtitle small { display: inline; margin: 0 0 0 .3em; font-size: .6em; }
+}
 .date-line {
   margin: 0;
   font-family: 'Cinzel', serif;

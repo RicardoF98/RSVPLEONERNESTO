@@ -5,6 +5,7 @@ const INVITACION = {
   nombre: 'León Ernesto',
   apellidos: 'Escobar de la Cruz',
   evento: 'Mi Bautizo',
+  eventoExtra: 'y Primer Aniversario',
   fecha: '2026-11-28T10:00:00-06:00',
   papas: ['Estefany Johany de la Cruz Martínez', 'Ernesto S. Escobar Pérez'],
   padrinos: ['Dora', 'Victor', 'Ricardo', 'Evelyn'],
